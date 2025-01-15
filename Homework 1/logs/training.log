@@ -1,0 +1,19 @@
+2025-01-15 17:26:12,581 - INFO - Starting the data pipeline.
+2025-01-15 17:26:18,072 - INFO - Starting the data pipeline.
+2025-01-15 17:27:27,745 - INFO - Starting the data pipeline.
+2025-01-15 17:27:27,745 - INFO - Loading raw data.
+2025-01-15 17:28:47,391 - INFO - Preprocessing Data
+2025-01-15 17:30:44,344 - INFO - Saving the Model
+2025-01-15 17:31:02,899 - INFO - Evaluation the Model
+2025-01-15 17:33:06,580 - INFO - Data Split
+2025-01-15 17:33:07,099 - INFO - Model Training
+2025-01-15 17:33:07,530 - INFO - Saving the Model
+2025-01-15 17:33:08,236 - INFO - Evaluation the Model
+2025-01-15 17:33:30,645 - INFO - Starting the data pipeline.
+2025-01-15 17:33:30,646 - INFO - Loading raw data.
+2025-01-15 17:33:31,111 - INFO - Preprocessing Data
+2025-01-15 17:33:31,493 - INFO - Feature Engineering
+2025-01-15 17:33:31,669 - INFO - Data Split
+2025-01-15 17:33:31,866 - INFO - Model Training
+2025-01-15 17:33:32,254 - INFO - Saving the Model
+2025-01-15 17:33:32,569 - INFO - Evaluation the Model

@@ -12,7 +12,7 @@ model:
 paths:
   model_save_path: "models/fruit_classifier.joblib"
   log_path: "logs/training.log"
-  performance_path: "reports/performance/"
+  performance_path: "reports/metrics.json"
 
 features:
   numerical:
