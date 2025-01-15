@@ -21,4 +21,4 @@ Fruits classified:
 
 2) Type python -m venv venv
 3) venv\Scripts\activate
-4) streamlit run deployment/streamlit/app.py
+4) python main.py

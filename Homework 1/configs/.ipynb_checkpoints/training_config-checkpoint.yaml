@@ -11,6 +11,7 @@ model:
   
 paths:
   model_save_path: "models/fruit_classifier.joblib"
+  scaler_save_path: "models/scaler.joblib"
   log_path: "logs/training.log"
   performance_path: "reports/metrics.json"
 

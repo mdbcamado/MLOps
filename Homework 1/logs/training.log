@@ -17,3 +17,148 @@
 2025-01-15 17:33:31,866 - INFO - Model Training
 2025-01-15 17:33:32,254 - INFO - Saving the Model
 2025-01-15 17:33:32,569 - INFO - Evaluation the Model
+2025-01-15 18:54:10,080 - INFO - Starting the data pipeline.
+2025-01-15 18:54:10,081 - INFO - Loading raw data.
+2025-01-15 18:54:10,145 - INFO - Preprocessing data.
+2025-01-15 18:54:10,207 - INFO - Creating engineered features.
+2025-01-15 18:54:10,215 - INFO - Inspecting features:
+2025-01-15 18:54:10,221 - INFO - Training the model.
+2025-01-15 18:54:11,713 - INFO - Evaluating the model.
+2025-01-15 18:54:11,804 - INFO - Pipeline execution completed.
+2025-01-15 18:57:46,322 - INFO - Starting the data pipeline.
+2025-01-15 18:57:46,322 - INFO - Loading raw data.
+2025-01-15 18:57:46,331 - INFO - Preprocessing data.
+2025-01-15 18:57:46,339 - INFO - Creating engineered features.
+2025-01-15 18:57:46,344 - INFO - Inspecting features:
+2025-01-15 18:57:46,346 - INFO - Training the model.
+2025-01-15 18:57:46,886 - INFO - Evaluating the model.
+2025-01-15 18:57:46,930 - INFO - Pipeline execution completed.
+2025-01-15 19:00:39,353 - INFO - Starting the data pipeline.
+2025-01-15 19:00:39,354 - INFO - Loading raw data.
+2025-01-15 19:00:39,424 - INFO - Preprocessing data.
+2025-01-15 19:00:39,449 - INFO - Creating engineered features.
+2025-01-15 19:00:39,458 - INFO - Inspecting features:
+2025-01-15 19:00:39,459 - INFO - Training the model.
+2025-01-15 19:00:39,826 - INFO - Evaluating the model.
+2025-01-15 19:00:39,859 - INFO - Pipeline execution completed.
+2025-01-15 19:03:22,465 - INFO - Starting the data pipeline.
+2025-01-15 19:03:22,465 - INFO - Loading raw data.
+2025-01-15 19:03:22,483 - INFO - Preprocessing data.
+2025-01-15 19:03:22,498 - INFO - Creating engineered features.
+2025-01-15 19:03:22,532 - INFO - Training the model.
+2025-01-15 19:03:22,789 - INFO - Evaluating the model.
+2025-01-15 19:03:22,816 - INFO - Pipeline execution completed.
+2025-01-15 19:05:32,719 - INFO - Starting the data pipeline.
+2025-01-15 19:05:32,719 - INFO - Loading raw data.
+2025-01-15 19:05:32,733 - INFO - Preprocessing data.
+2025-01-15 19:05:32,749 - INFO - Creating engineered features.
+2025-01-15 19:05:32,772 - INFO - Training the model.
+2025-01-15 19:05:33,032 - INFO - Evaluating the model.
+2025-01-15 19:05:33,053 - INFO - Pipeline execution completed.
+2025-01-15 19:08:14,369 - INFO - Starting the data pipeline.
+2025-01-15 19:08:14,370 - INFO - Loading raw data.
+2025-01-15 19:08:14,387 - INFO - Preprocessing data.
+2025-01-15 19:08:14,403 - INFO - Creating engineered features.
+2025-01-15 19:08:14,452 - INFO - Training the model.
+2025-01-15 19:08:14,942 - INFO - Evaluating the model.
+2025-01-15 19:08:15,001 - INFO - Running Streamlit app.
+2025-01-15 19:14:25,504 - INFO - Starting the data pipeline.
+2025-01-15 19:14:25,506 - INFO - Loading raw data.
+2025-01-15 19:14:26,012 - INFO - Preprocessing data.
+2025-01-15 19:14:26,427 - INFO - Creating engineered features.
+2025-01-15 19:14:27,498 - INFO - Training the model.
+2025-01-15 19:14:31,026 - INFO - Evaluating the model.
+2025-01-15 19:14:31,374 - INFO - Running Streamlit app.
+2025-01-15 19:19:37,992 - INFO - Starting the data pipeline.
+2025-01-15 19:19:37,993 - INFO - Loading raw data.
+2025-01-15 19:19:38,015 - INFO - Preprocessing data.
+2025-01-15 19:19:38,031 - INFO - Creating engineered features.
+2025-01-15 19:19:38,066 - INFO - Training the model.
+2025-01-15 19:19:38,274 - INFO - Evaluating the model.
+2025-01-15 19:19:38,304 - INFO - Running Streamlit app.
+2025-01-15 19:36:34,749 - INFO - Starting the data pipeline.
+2025-01-15 19:36:34,750 - INFO - Loading raw data.
+2025-01-15 19:36:34,818 - INFO - Preprocessing data.
+2025-01-15 19:36:34,873 - INFO - Creating engineered features.
+2025-01-15 19:36:34,980 - INFO - Training the model.
+2025-01-15 19:36:35,682 - INFO - Evaluating the model.
+2025-01-15 19:36:35,744 - INFO - Running Streamlit app.
+2025-01-15 19:41:55,811 - INFO - Starting the data pipeline.
+2025-01-15 19:41:55,811 - INFO - Loading raw data.
+2025-01-15 19:41:55,823 - INFO - Preprocessing data.
+2025-01-15 19:41:55,833 - INFO - Creating engineered features.
+2025-01-15 19:41:55,851 - INFO - Training the model.
+2025-01-15 19:41:55,949 - INFO - Evaluating the model.
+2025-01-15 19:41:55,960 - INFO - Running Streamlit app.
+2025-01-15 19:48:30,801 - INFO - Starting the data pipeline.
+2025-01-15 19:48:30,801 - INFO - Loading raw data.
+2025-01-15 19:48:30,813 - INFO - Preprocessing data.
+2025-01-15 19:48:30,824 - INFO - Creating engineered features.
+2025-01-15 19:48:30,843 - INFO - Training the model.
+2025-01-15 19:48:30,948 - INFO - Evaluating the model.
+2025-01-15 19:48:30,960 - INFO - Running Streamlit app.
+2025-01-15 19:49:47,722 - INFO - Starting the data pipeline.
+2025-01-15 19:49:47,722 - INFO - Loading raw data.
+2025-01-15 19:49:47,733 - INFO - Preprocessing data.
+2025-01-15 19:49:47,741 - INFO - Creating engineered features.
+2025-01-15 19:49:47,760 - INFO - Training the model.
+2025-01-15 19:49:47,891 - INFO - Evaluating the model.
+2025-01-15 19:49:47,907 - INFO - Running Streamlit app.
+2025-01-15 19:55:09,010 - INFO - Starting the data pipeline.
+2025-01-15 19:55:09,010 - INFO - Loading raw data.
+2025-01-15 19:55:09,019 - INFO - Preprocessing data.
+2025-01-15 19:55:09,026 - INFO - Creating engineered features.
+2025-01-15 19:55:09,044 - INFO - Training the model.
+2025-01-15 19:55:09,158 - INFO - Evaluating the model.
+2025-01-15 19:55:09,171 - INFO - Running Streamlit app.
+2025-01-15 19:56:48,689 - INFO - Starting the data pipeline.
+2025-01-15 19:56:48,689 - INFO - Loading raw data.
+2025-01-15 19:56:48,697 - INFO - Preprocessing data.
+2025-01-15 19:56:48,704 - INFO - Creating engineered features.
+2025-01-15 19:56:48,720 - INFO - Training the model.
+2025-01-15 19:56:48,818 - INFO - Evaluating the model.
+2025-01-15 19:56:48,830 - INFO - Running Streamlit app.
+2025-01-15 20:00:23,494 - INFO - Pipeline execution completed.
+2025-01-15 20:01:13,845 - INFO - Starting the data pipeline.
+2025-01-15 20:01:13,845 - INFO - Loading raw data.
+2025-01-15 20:01:13,855 - INFO - Preprocessing data.
+2025-01-15 20:01:13,862 - INFO - Creating engineered features.
+2025-01-15 20:01:13,876 - INFO - Training the model.
+2025-01-15 20:01:13,975 - INFO - Evaluating the model.
+2025-01-15 20:01:13,986 - INFO - Running Streamlit app.
+2025-01-15 20:07:54,541 - INFO - Pipeline execution completed.
+2025-01-15 20:08:40,159 - INFO - Starting the data pipeline.
+2025-01-15 20:08:40,159 - INFO - Loading raw data.
+2025-01-15 20:08:40,180 - INFO - Preprocessing data.
+2025-01-15 20:08:40,198 - INFO - Creating engineered features.
+2025-01-15 20:08:40,228 - INFO - Training the model.
+2025-01-15 20:08:40,469 - INFO - Evaluating the model.
+2025-01-15 20:08:40,491 - INFO - Running Streamlit app.
+2025-01-15 20:14:15,935 - INFO - Starting the data pipeline.
+2025-01-15 20:14:15,935 - INFO - Loading raw data.
+2025-01-15 20:14:15,950 - INFO - Preprocessing data.
+2025-01-15 20:14:15,963 - INFO - Creating engineered features.
+2025-01-15 20:14:15,989 - INFO - Training the model.
+2025-01-15 20:14:16,164 - INFO - Evaluating the model.
+2025-01-15 20:14:16,182 - INFO - Running Streamlit app.
+2025-01-15 20:32:33,628 - INFO - Pipeline execution completed.
+2025-01-15 20:33:12,711 - INFO - Starting the data pipeline.
+2025-01-15 20:33:12,711 - INFO - Loading raw data.
+2025-01-15 20:33:12,724 - INFO - Preprocessing data.
+2025-01-15 20:34:05,608 - INFO - Starting the data pipeline.
+2025-01-15 20:34:05,608 - INFO - Loading raw data.
+2025-01-15 20:34:05,624 - INFO - Preprocessing data.
+2025-01-15 20:34:34,761 - INFO - Starting the data pipeline.
+2025-01-15 20:34:34,762 - INFO - Loading raw data.
+2025-01-15 20:34:34,782 - INFO - Preprocessing data.
+2025-01-15 20:34:34,801 - INFO - Creating engineered features.
+2025-01-15 20:34:34,838 - INFO - Training the model.
+2025-01-15 20:34:35,072 - INFO - Evaluating the model.
+2025-01-15 20:34:35,093 - INFO - Running Streamlit app.
+2025-01-15 20:38:16,043 - INFO - Starting the data pipeline.
+2025-01-15 20:38:16,043 - INFO - Loading raw data.
+2025-01-15 20:38:16,062 - INFO - Preprocessing data.
+2025-01-15 20:38:16,081 - INFO - Creating engineered features.
+2025-01-15 20:38:16,111 - INFO - Training the model.
+2025-01-15 20:38:16,353 - INFO - Evaluating the model.
+2025-01-15 20:38:16,373 - INFO - Running Streamlit app.
