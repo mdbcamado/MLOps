@@ -169,3 +169,10 @@
 2025-01-19 13:28:26,995 - INFO - Training the model.
 2025-01-19 13:28:27,209 - INFO - Evaluating the model.
 2025-01-19 13:28:27,252 - INFO - Running Streamlit app.
+2025-01-27 09:30:49,915 - INFO - Starting the data pipeline.
+2025-01-27 09:30:49,915 - INFO - Loading raw data.
+2025-01-27 09:30:49,937 - INFO - Preprocessing data.
+2025-01-27 09:30:49,954 - INFO - Creating engineered features.
+2025-01-27 09:30:49,976 - INFO - Training the model.
+2025-01-27 09:30:50,101 - INFO - Evaluating the model.
+2025-01-27 09:30:50,115 - INFO - Running Streamlit app.

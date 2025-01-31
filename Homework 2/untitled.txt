@@ -1,0 +1,6 @@
+from dagster import repository
+from pipeline import pipeline  # Adjust the path as needed
+
+@repository
+def my_repository():
+    return [pipeline]
