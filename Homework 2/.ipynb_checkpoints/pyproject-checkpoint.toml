@@ -1,2 +1,0 @@
-[tool.dagster]
-module = "pipeline.pipeline"  # Update this path to match your pipeline module

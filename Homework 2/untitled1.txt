@@ -1,2 +1,0 @@
-[tool.dagster]
-repository = "src/repository.py"
